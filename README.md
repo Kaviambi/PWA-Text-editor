@@ -41,5 +41,12 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 The following images shows the application functionality:
+![Successfully build](Develop/Images/image6.JPG)
+![Home Screen](Develop/Images/image1.JPG)
+![App installed](Develop/Images/image2.JPG)
+![Manifest](Develop/Images/image3.JPG)
+![Service Worker](Develop/Images/image4.JPG)
+![JATE](Develop/Images/image5.JPG)
 
+GitHub Repo Link - https://github.com/Kaviambi/PWA-Text-editor.git
 
